@@ -6,7 +6,7 @@ Solução de Automação para Pequenas, Médias e Grandes Empresas.
 **Whatsapp / Instagram / Telegram**
 
 
-A Apresentação do Projeto **Atendimento Automatizado Google Gemini ou AAGG** pode ser vista neste vídeo: LINK DO VIDEO 
+A Apresentação do Projeto **Atendimento Automatizado Google Gemini ou AAGG** pode ser vista neste vídeo: (https://drive.google.com/drive/folders/1kJoJcMmJKIjqMObaEWKYshR_A99usJ_p?usp=sharing)
 
 **A Dor tratada com AI**: 
 O atendimento online tem sido um dos grandes gargalos para vendas em todos os setores da economia. A Inteligência Artificial Gemini pode ser uma excelente solução para as interações entre empresas e clientes. 
